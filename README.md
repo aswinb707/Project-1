@@ -16,19 +16,3 @@
 - 🌐 **Offline Access**: Learn anywhere, anytime — no internet required for saved words.
 
 ---
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) installed
-- Android Studio / VS Code / Xcode
-- Emulator or physical device
-
-### Installation
-
-```bash
-git clone https://github.com/your-username/dict-o-day.git
-cd dict-o-day
-flutter pub get
-flutter run
